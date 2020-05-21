@@ -2,6 +2,7 @@
 
 A simple flutter app which illustrates the use of saving preferences online.
 This app also demonstrates how one can  add history sheet for last searches.
+![Finished App](https://github.com/Shane1026/FlutterTranslate/blob/master/History.mp4)
 
 ## Some features of the app
 
